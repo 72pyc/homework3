@@ -1,0 +1,41 @@
+body {
+    padding: 30px;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0px 0px 10px;
+}
+
+.header__wik {
+    color: brown;
+}
+
+.header__wik:visited {
+    color: green;
+}
+
+.header__wik:hover {
+
+    color: blue;
+}
+
+.nav__btn {
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(13, 177, 253);
+    margin: 0px 0px 20px;
+
+}
+
+.nav__btn:hover {
+    background-color: brown;
+    color: black;
+}
+
+.nav__btn:active {
+    background-color: black;
+    color: aliceblue;
+
+}
